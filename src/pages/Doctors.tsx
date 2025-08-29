@@ -8,7 +8,7 @@ const Doctors = () => {
       specialty: 'Internal Medicine',
       qualifications: 'MD, Harvard Medical School, Board Certified Internal Medicine',
       experience: '20+ years',
-      languages: ['English', 'Spanish'],
+      languages: ['English', 'Spanish','Bhojpuri'],
       consultationTimes: {
         monday: '9:00 AM - 5:00 PM',
         tuesday: '9:00 AM - 5:00 PM',
